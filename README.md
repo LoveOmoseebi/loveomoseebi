@@ -1,6 +1,6 @@
 ![MasterHead](https://www.pwcacademy-me.com/sites/default/files/styles/banner/public/2022-04/Data%20analytics%20-%20Hero%20image.jpeg?itok=v2WOwwB9)
 <h1 align="center">Hi 👋, welcome to my profile, I'm Love.</h1>
-<h3 align="center">Aspiring data analyst.</h3>
+<h3 align="center"> Data Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveomoseebi&label=Profile%20views&color=0e75b6&style=flat" alt="loveomoseebi" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tableau, Python.**
 
-- 💬 Ask me about **Excel, SQL**
+- 💬 Ask me about **Excel, SQL, Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
